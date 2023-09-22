@@ -85,7 +85,7 @@ button{
     background-image: linear-gradient(to right, hsl(252, 100%, 67%),hsl(241, 81%, 54%));
    color:hsl(0,0%, 100%);
    width:250px;
-   padding:20px;
+   padding:10px;
    border-radius: 2em;
    border:1px solid white;
 }
