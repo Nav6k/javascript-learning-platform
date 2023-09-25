@@ -24,8 +24,8 @@ p{
 
 .container{
    display:flex;
-    height:15rem;
-    width:24rem;
+    height:14rem;
+    width:25rem;
     display:flex;
     margin:0px auto; 
     position:relative;
@@ -37,7 +37,7 @@ p{
     display: flex;
     align-items: start;
     background-image: linear-gradient(to right, hsl(252, 100%, 67%),hsl(241, 81%, 54%));
-    height:15rem;
+    height:14rem;
     width:12rem;
     border-radius: 1em;
     align-content: center;
@@ -49,7 +49,7 @@ p{
     display: flex;
     align-items: start;
     background-color:  hsl(0, 0%, 100%);
-    height:15rem;
+    height:14rem;
     width:12rem;
     border-radius: 1em;
     align-content: center;
@@ -71,6 +71,7 @@ p{
     left:2.5em;
     border-radius: 50%;
     text-align: center;
+   
 }
 
 .big-score{
@@ -79,10 +80,7 @@ p{
     font-size: 60px;
 }
 
-.white-content{
-    
-    padding:1em;
-}
+
 .table{
     display:flex;
     justify-content: space-between;
@@ -109,8 +107,7 @@ button{
         width:100%;
         border-radius:0px;
         border-radius: 0px;
-        border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
+       
 
     }
     
@@ -121,8 +118,9 @@ button{
     }
     
     .blue-content{
-        padding: 20px;
+        /* padding: 5px; */
         text-align: center;
+       
     }
     .white-content{
         padding: 20px;
